@@ -1,0 +1,168 @@
+body {
+    font-family: 'Fira Code', monospace;
+    background: #F4F4F4;
+}
+
+header {
+    display: flex;
+}
+
+body nav {
+    margin-top: 60px;
+    display: flex;
+    margin-left: 125px;
+    
+}
+
+nav ul {
+    margin-left: 30%;
+}
+
+body nav li {
+    display: inline-flex;
+    padding-top: 10px;
+    padding-left: 80px;
+
+}
+
+nav li a {
+    text-decoration: none;
+    color: black;
+}
+
+.burger {
+    margin-top: 20px;
+    margin-left: 20%;
+}
+
+.hr1 {
+    width: 20.5px;
+    height: 3px;
+    background-color: black;
+}
+.hr2 {
+    width: 10.5px;
+    height: 3px;
+    background-color: black;
+    
+}
+
+nav li a:hover {
+    color: #222222;
+    opacity: 0.3;
+}
+.main_bloc_one {
+    padding-top: 140px;
+    margin-left: 125px;
+    width: 50%;
+}
+
+.main_bloc_one h3 {
+ font-family: Fira Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 4px;
+text-transform: uppercase;
+}
+
+.main_bloc_one h1 {
+font-family: Fira Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 70px;
+}
+
+.text_maine {
+    ont-family: Fira Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #222222;
+    opacity: 0.7; 
+}
+
+.botom {
+    display: flex;
+    padding-top: 70px;
+}
+
+.botom1 {
+    background: #4737FF;
+    width: 160px;
+    text-align: center;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    
+}
+
+.botom1 a {
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #FFFFFF; 
+    text-decoration: none;
+}
+
+.svg {
+    padding-top: 17px;
+    padding-left: 34px;
+}
+
+.Onetwothree {
+    padding-top: 240px;
+    display: flex;
+}
+
+.botom_one {
+    background: #F4F4F4;
+    text-align: center;
+    padding: 25px;
+    
+}
+
+.onetwo {
+    margin-left: 40px;
+}
+
+.botom_one a {
+    text-decoration: none;
+    color: black;
+    font-family: Fira Sans;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17.5475px;
+    line-height: 26px;
+}
+
+.botom_one:hover {
+    background: #F96241;
+    
+}
+
+.botom_one a:hover {
+    color: white;
+}
+
+.main_bloc_two {
+    padding-top: 100px;
+}
+
+
+.maine_img_two {
+    position: absolute;
+    position:relative
+ 
+}
+
+.con {
+    position:absolute;top:25%;left:65%;
+}
